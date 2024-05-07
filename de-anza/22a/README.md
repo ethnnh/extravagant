@@ -1,0 +1,2 @@
+# 22a
+class work
